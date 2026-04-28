@@ -6,17 +6,17 @@ Sample `.md` files for [Filo ϕ](https://terramar.dev/products/filo/), a Markdow
 
 | File | What it demonstrates |
 |------|----------------------|
-| [01_basic_formatting.md](01_basic_formatting.md) | Headings, bold, italic, blockquotes, horizontal rules |
-| [02_code_blocks.md](02_code_blocks.md) | Inline code, fenced code blocks with syntax highlighting |
-| [03_lists.md](03_lists.md) | Ordered lists, unordered lists, nested lists, task lists |
-| [04_technical_docs.md](04_technical_docs.md) | Tables, definition lists, mixed technical content |
-| [05_long_form_reading.md](05_long_form_reading.md) | Long-form prose for reading-mode and scroll behaviour |
-| [06_document_a.md](06_document_a.md) | Navigation history — open this, then open Document B |
-| [06_document_b.md](06_document_b.md) | Navigation history — use ⌘[ / ⌘] to go back and forward |
-| [07_mermaid_architecture.md](07_mermaid_architecture.md) | Mermaid architecture diagrams |
-| [08_mermaid_flowcharts.md](08_mermaid_flowcharts.md) | Mermaid flowcharts and state diagrams |
-| [09_link_testing.md](09_link_testing.md) | Internal anchor links, external links |
-| [10_html_in_markdown.md](10_html_in_markdown.md) | Inline HTML elements inside Markdown |
+| **01_basic_formatting.md** | Headings, bold, italic, blockquotes, horizontal rules |
+| **02_code_blocks.md** | Inline code, fenced code blocks with syntax highlighting |
+| **03_lists.md** | Ordered lists, unordered lists, nested lists, task lists |
+| **04_technical_docs.md** | Tables, definition lists, mixed technical content |
+| **05_long_form_reading.md** | Long-form prose for reading-mode and scroll behaviour |
+| **06_document_a.md** | Navigation history — open this, then open Document B |
+| **06_document_b.md** | Navigation history — use ⌘[ / ⌘] to go back and forward |
+| **07_mermaid_architecture.md** | Mermaid architecture diagrams |
+| **08_mermaid_flowcharts.md** | Mermaid flowcharts and state diagrams |
+| **09_link_testing.md** | Internal anchor links, external links |
+| **10_html_in_markdown.md** | Inline HTML elements inside Markdown |
 
 ## Downloading
 
